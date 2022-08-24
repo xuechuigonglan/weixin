@@ -1,0 +1,23 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wx5c125ad59db6f2ab",
+# 公众号appSecret
+"app_secret": "37c55a5ee79f37b927eb47b12df08573",
+# 模板消息id
+"template_id": "T4yCs7P-Ti2MklKotzITvGtRiIKtcT0B4_PCveEP4js",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["oHGV75vxMWhNqwQDXo2IigmWlMIo"],
+
+# 信息配置
+# 和风天气apikey
+ "weather_key": "1caf58faca1f49bbab321ca0948a9d5a",
+# 所在省份
+"province": "福建",
+# 所在城市
+"city": "厦门",
+# 生日
+"birthday": "2001-03-21",
+# 在一起的日子，格式同上
+"love_date": "2021-03-29"
+}
